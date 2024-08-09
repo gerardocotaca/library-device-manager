@@ -1,5 +1,3 @@
-//Gerardo Cota-Canez, gcotacan, CIS 340, MP2
-
 public class LibraryDevice {
 	private String sku;
 	private String name;
