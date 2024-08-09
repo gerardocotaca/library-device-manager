@@ -1,5 +1,3 @@
-//Gerardo Cota-Canez, gcotacan, CIS 340, MP2
-
 import java.util.Scanner;
 
 public class LibraryDeviceCheckoutSystem {
